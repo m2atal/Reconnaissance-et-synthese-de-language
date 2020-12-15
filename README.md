@@ -1,2 +1,2 @@
-# Reconnaissance-et-synthese-de-language
+# Reconnaissance-et-synthese-de-langue
 CM/TD/TP
